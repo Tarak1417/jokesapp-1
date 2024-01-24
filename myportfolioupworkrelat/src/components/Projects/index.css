@@ -1,0 +1,82 @@
+.projectsContainer {
+    height:130vh;
+    width: 100vw;
+    background-size: cover;
+    background:  #1f1f38;
+    padding:1px;
+}
+.myprojectsele {
+font-family: caveat;
+color: bisque;
+padding-left: 23px;
+
+}
+.projectsContainersec {
+    color: white;
+    font-family: caveat;
+    height: 50vh;
+    width: 30vw;
+    background-color: aqua;
+    margin-left: 23px;
+    text-align: center;
+    border-radius: 8px;
+}
+.projectsContainersec:hover{
+
+    color:bisque;
+    font-family: caveat;
+    height: 50vh;
+    width: 30vw;
+    background-color:#1f1f38;
+    margin-left: 23px;
+    text-align: center;
+    border-radius: 8px;
+    border-style:solid;
+    border-width: 1px;
+
+
+}
+
+
+
+.projectSettingAlign {
+    display: flex;
+    flex-direction: row;
+
+}
+.projectSettingAlign1 {
+    display: flex;
+    flex-direction: row;
+    margin-top: 11px;
+}
+.resumedownloadbutt {
+    height: 70px;
+    width: 120px;
+    border-radius: 40px;
+    border-width: 0px;
+    color: black;
+    background-color: #eb348c;
+}
+.resumedownloadbutt:hover {
+    height: 70px;
+    width: 120px;
+    border-radius: 40px;
+    border-width: 0px;
+    color:bisque;
+    background-color:#1f1f38;
+    font-weight: bold;
+    font-family: caveat;
+    border-style: solid;
+    border-width: 1px;
+    border-color: aqua;
+}
+
+
+.paddingThe {
+    padding-left: 28px;
+    padding-top: 66px;
+}
+.emoJProGor {
+    padding-left: 12px;
+    font-size: 2rem;
+}

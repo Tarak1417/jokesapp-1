@@ -1,0 +1,103 @@
+.contactContai {
+    height:100vh;
+    width: 100vw;
+    background-color:#1f1f38;
+    padding-top: 1px;
+}
+.circle {
+    font-size: 2rem;
+    color:bisque;
+    padding-left: 29px;
+}
+.contactCoStyle {
+    font-family:caveat;
+    color: bisque;
+    font-size: 54px;
+    padding-left:42px;
+}
+
+.contactCoStyle:hover{
+    color:#a62483;
+}
+
+.contactGetIm {
+    font-family: caveat;
+    font-weight: bold;
+    color: white;
+    padding-left: 53px;
+    margin-top: -33px;
+}
+.contactGetIm:hover{
+    color: #a62483;
+}
+.contactGmail{
+    padding: 29px;
+    color:bisque;
+    font-size: 2rem;
+}
+.contactGmailText{
+    font-family: caveat;
+    color: bisque;
+    font-size: 22px;
+    padding-left: 12px;
+}
+.contactFooterelement{
+    background-color: aqua;
+    height: 30vh;
+    width: 100vw;
+    color: black;
+    margin-top: 100px;
+}
+.sectonfootele{
+    font-family: caveat;
+    text-align: center;
+
+}
+.minuteDerAa{
+    font-family: caveat;
+    font-size: 11px;
+    font-weight: bold;
+    text-align: center;
+}
+.linkdinIcon {
+    color: bisque;
+    font-size: 2rem;
+    color:bisque;
+    padding-left: 29px;
+}
+.contactGmail1{
+    color: bisque;  
+}
+.contactGmail1:hover{
+    color:#1f1f38;  
+}
+
+
+.ContactVasuAlign {
+    background-color:#1f1f38;
+    width: 33px;
+    height: 28px;
+    margin-left: 22px;
+    text-align: center;
+    padding-top: 4px;
+    border-radius: 8px;
+    border-style: solid;
+    color: bisque;
+    border-width: 1px;
+    margin-top: 12px;
+    
+}
+.ContactVasuAlign:hover {
+    background-color:bisque;
+    width: 33px;
+    height: 28px;
+    margin-left: 22px;
+    text-align: center;
+    padding-top: 4px;
+    border-radius: 8px;
+    border-style: solid;
+    color:bisque;
+    border-width: 1px;
+    box-shadow: 10px 10px 20px rgba(7, 186, 213, 0.5);
+    
+}

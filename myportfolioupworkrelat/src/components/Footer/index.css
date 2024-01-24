@@ -1,0 +1,14 @@
+.footerstyle {
+    height:30px;
+    background-color: #9292a0;
+    display: flex;
+    flex-direction: column;
+    justify-content:flex-end;
+    width: 100vw;
+}
+.footerele {
+    text-align:center;
+    font-family:roboto;
+    font-size:15px;
+    color:black;
+}

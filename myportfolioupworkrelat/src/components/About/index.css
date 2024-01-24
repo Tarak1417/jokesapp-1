@@ -1,0 +1,153 @@
+.summery {
+    font-size:11px;
+    font-family: caveat;
+    margin:24px;
+    
+    
+}
+.lopi{
+    font-family: caveat;
+    
+    margin-left: 22px;
+    font-size: 34px;
+
+}
+.aboutMeText {
+    text-align:center;
+    font-family:caveat;
+    color:rgb(236, 188, 224);
+}
+.aboutMeSummer{
+    font-family: caveat;
+    
+    margin-left: 23px;
+}
+.aboutSkills {
+    font-family: caveat;
+    font-size: 30px;
+    text-align: center;
+}
+.skillsHedingContainer {
+color:bisque;
+font-family: cveat;  
+padding-top: 42px;
+}
+.skillsHedingContainer:hover {
+
+color:#1f1f38;
+background-color: bisque;
+font-family: caveat;
+height: 48vh;
+padding-top: 42px;
+}
+.avanthiCollege {
+    font-family: caveat;
+    font-size:22px;
+    margin-left: 24px;
+}
+.passedOut {
+    font-family: caveat;
+    font-size: 15px;
+    margin-left: 24px;
+}
+.courses {
+    text-align:center;
+    font-family: caveat;
+    
+    height: 250px;
+    
+    color: white;
+    border-top-left-radius:6422px;
+    border-bottom-right-radius: 4920px;
+}
+
+.courses:hover {
+    font-family: caveat;
+    color: #eb4034;
+}
+
+.aboutBackground{
+    
+   
+    height: 40vh;
+    text-align: left;
+    margin-top: 23px;
+    margin-left: 24px;
+    border-radius: 88px;
+    border-width: 1px;
+   
+    color: white;
+
+}
+.aboutBackground:hover{
+    color: bisque;
+    font-family: caveat;
+}
+
+.restoSettingh {
+
+display: flex;
+flex-direction: row;
+
+}
+.aboutHobiesMy {
+   
+    font-family: caveat;
+    text-align: center;
+    color: rgb(236, 188, 224);
+}
+
+.aboutHobiesMy:hover {
+    font-family: caveat;
+    background-color: rgb(236, 188, 224);
+    color: black;
+}
+
+.backgroundCont {
+    background-color:  #1f1f38;
+    padding-top: 1px;
+    height:256vh;
+    background-size: cover;
+    width: 100vw;
+
+}
+.aboutMyName {
+font-size: 33px;
+color: bisque;
+font-family: caveat;
+text-align: center;
+
+}
+.adjustingthecont {
+    display: flex;
+    flex-direction: row;
+}
+.aboutDevidingcon{
+    display: flex;
+    flex: row;
+    justify-content: space-around;
+    text-align: center;
+}
+.aboutSummeryHighlatedElement {
+    background-color:bisque;
+    width: 97vw;
+    height:30vh;
+    margin-left: 12px;
+    border-radius: 14px;
+    color: black;
+}
+.aboutSummeryHighlatedElement:hover{
+    color: #1f1f38;
+    font-weight: bold;
+    font-family: caveat;
+}
+.flyemj {
+    position: fixed;
+    margin-left: 422px;
+    font-size: 3rem;
+}
+.aboutHobbiesAdjustingflex{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
